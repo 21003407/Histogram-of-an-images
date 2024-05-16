@@ -29,7 +29,7 @@ Calculate and display the equalized image using equalizeHist()
 ## Program:
 ```
 # Developed By: A joans jay authers
-# Register Number: 212222230110
+# Register Number: 212221240019
 
 import cv2
 import matplotlib.pyplot as plt
